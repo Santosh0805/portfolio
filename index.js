@@ -42,8 +42,9 @@ form.addEventListener("submit", (e) => {
 var typed = new Typed("#main-heading", {
   strings: [
     "Front-end Developer.",
-    "React Developer.",
     "JavaScript Developer.",
+    "React Developer.",
+
   ],
   typeSpeed: 60,
   backSpeed: 60,

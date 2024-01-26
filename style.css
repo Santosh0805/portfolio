@@ -32,6 +32,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    background-color: black;
 }
 
 nav ul li {
@@ -57,6 +58,8 @@ nav ul li a::after {
     bottom: -5px;
     border-radius: 5px;
     transition: .4s;
+    
+
 }
 
 nav ul li a:hover::after {
@@ -97,6 +100,7 @@ nav ul li a:hover::after {
 
     padding: 80px 0;
     color: #bababa;
+    
 
 }
 
@@ -118,6 +122,7 @@ nav ul li a:hover::after {
 
 .about-col-2 {
     flex-basis: 60%;
+    /* text-align: center; */
 }
 
 .sub-title {
@@ -177,7 +182,7 @@ nav ul li a:hover::after {
 
 
 
-/* ------------------------services--------- */
+/* ----------------------Skills---------------- */
 
 #services {
     padding: 30px 0;
